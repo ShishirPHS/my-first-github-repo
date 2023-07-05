@@ -3,3 +3,13 @@ div {
   padding: 20px;
   margin-bottom: 20px;
 }
+
+.image img {
+  widows: 100px;
+  height: 100px;
+}
+
+.nobackground {
+  background: none;
+  padding: 0px;
+}
